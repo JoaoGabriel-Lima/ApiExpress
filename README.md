@@ -5,7 +5,7 @@ API criada usando Node.js
 - Git (https://git-scm.com/)
 - Node (https://nodejs.org)
 
-# Como usar?
+## Como Inciar?
 Abra o projeto usando o Gitpod ou qualquer outra IDE e inicie o servidor usando:</br>
 
 ```javascript
@@ -17,4 +17,10 @@ Após receber a mensagem: (*Servidor executando na porta 3003.*), abra o link ab
 
 <img src="/imgs/localhost.png">
 
+## Como usar POST, PUT e REMOVE?
+Ultilize o Postman para fazer post, put e remove </br>
+<img src="/imgs/postman.gif" width="600"/>
+</br>
+</br>
+**Detalhe:** Para usar post é necessário selecionar body e clicar em x-www-form-urlenconded
 
